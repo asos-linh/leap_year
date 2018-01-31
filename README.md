@@ -8,3 +8,19 @@ A leap year is **divisible by 4**, but is **not otherwise divisible by 100** unl
 * 1996 is a typical leap year
 * 1900 is an atypical common year
 * 2000 is an atypical leap year
+
+## Instructions
+
+1. Clone this repository to your local machine .
+2. cd into the directory and run:
+```
+npm install
+```
+3. To run verbose test:
+```
+npm test
+```
+4. To run test watch:
+```
+npm run test:watch
+```
